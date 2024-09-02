@@ -1,0 +1,1 @@
+Readme file for the debugging excercises with ChatGPT section of the course
